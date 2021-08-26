@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 ### Status
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=POL6463&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-### Top Langs
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=POL6463&theme=tokyonight&layout=compact&exclude_repo=OPNE-CV,Python,Project,AWS_Serverless,Google_Image_Crawling,MFC-WINDOW-PROGRAMMING)](https://github.com/anuraghazra/github-readme-stats)
